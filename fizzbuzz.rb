@@ -8,6 +8,6 @@ def fizzbuzz(number)
   end
 end
 
-def fizz_3
-  fizz_3 = "Fizz"
+def fizz_3(if_number_divisible_by_3)
+  if_number_divisible_by_3 = "Fizz"
 end
