@@ -8,4 +8,6 @@ def fizzbuzz(number)
   end
 end
 
-fizz_3 = "Fizz"
+def fizz_3
+  fizz_3 = "Fizz"
+end
