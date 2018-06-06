@@ -9,5 +9,5 @@ def fizzbuzz(number)
 end
 
 def fizz_3
-  fizz_3 = "Fizz"
+  fizz_3 = (fizz)
 end
