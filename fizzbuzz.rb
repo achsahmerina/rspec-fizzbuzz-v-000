@@ -10,4 +10,5 @@ end
 
 def fizz_3
   if number % 3 == Fizz
+  end
 end
